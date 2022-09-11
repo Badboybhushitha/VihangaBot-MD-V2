@@ -30,7 +30,7 @@ global.group1 = 'https://chat.whatsapp.com/Bg6UMa8ukSZJLZA4RNT8mx' //මෙත�
 global.group2 = 'https://chat.whatsapp.com/Bg6UMa8ukSZJLZA4RNT8mx' //මෙතන grouplink එක.
 global.packname = 'BHUSHITHA👨‍💻' //මෙතන නම.
 global.cap = '*By BHUSHITHA MD*' //මෙතන නම.
-global.img = 'https://i.ibb.co/BBB6Rxn/Vihanga-MD.png' //මෙතන බොට්ගෙ photo එකට ඕන derect link එකක්.
+global.img = 'https://i.ibb.co/8dRZYR8/IMG-20220521-WA0140.jpg' //මෙතන බොට්ගෙ photo එකට ඕන derect link එකක්.
 global.ytchannel = 'https://youtu.be/Z9rIR0Vopb8' //මෙතන කැමති ලින්ක් එකක්.
 global.monayawal = '100000' //මෙතන මාරු කරන්න එපා.
 global.darahawal = '100' //මෙතන මාරු කරන්න එපා.
@@ -52,7 +52,7 @@ global.f3 = 'application/vnd.openxmlformats-officedocument.wordprocessingml.docu
 global.f4 = 'application/zip' //මෙතන මාරු කරන්න එපා.
 global.f5 = 'application/pdf' //මෙතන මාරු කරන්න එපා.
 global.f6 = 'application/vnd.android.package-archive' //මෙතන මාරු කරන්න එපා.
-global.author = 'VIHANGA BOT INC' //මෙතන නම.
+global.author = 'BHUSHITHA BOT INC' //මෙතන නම.
 global.flaming = 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=amped-logo&doScale=true&scaleWidth=800&scaleHeight=500&text=' //මෙතන මාරු කරන්න එපා.
 global.sessionName = 'session' //මෙතන මාරු කරන්න එපා.
 global.prefa = ['','!','.','🐦','🐤','🗿'] //මෙතන මාරු කරන්න එපා.
