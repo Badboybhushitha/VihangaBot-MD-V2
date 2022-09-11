@@ -18,18 +18,18 @@ global.APIKeys = {
 
 //Owner React
 global.OWNER_REACT = '🧑🏻‍💻' //මෙතනට emoji එකක දාන්න.
-global.REACT_NUMBER = '9476342733' //මෙතන number එක.
+global.REACT_NUMBER = '94767761567' //මෙතන number එක.
 
 // Other
-global.owner = ['9476342733',''] //මෙතන number එක.
-global.premium = ['9476342733','9476342733'] //මෙතන number එක.
-global.botname = 'VIHANGA BOT INC' //මෙතන නම.
-global.ownername = 'Vihanga MD' //මෙතන නම.
-global.ownername = 'ᴠɪʜͥᴀɴͣɢͫᴀ ʏᴛ' //මෙතන නම.
-global.group1 = 'https://chat.whatsapp.com/K98pHm46F1M7ZROsJUrBGF' //මෙතන grouplink එක.
-global.group2 = 'https://chat.whatsapp.com/K98pHm46F1M7ZROsJUrBGF' //මෙතන grouplink එක.
-global.packname = 'VIHANGA BOT INC' //මෙතන නම.
-global.cap = '*By Vihanga MD*' //මෙතන නම.
+global.owner = ['94742427578',''] //මෙතන number එක.
+global.premium = ['94742427578','94742427578'] //මෙතන number එක.
+global.botname = 'BHUSHITHA' //මෙතන නම.
+global.ownername = 'BHUSHITHA' //මෙතන නම.
+global.ownername = 'BHUSHITHA' //මෙතන නම.
+global.group1 = 'https://chat.whatsapp.com/Bg6UMa8ukSZJLZA4RNT8mx' //මෙතන grouplink එක.
+global.group2 = 'https://chat.whatsapp.com/Bg6UMa8ukSZJLZA4RNT8mx' //මෙතන grouplink එක.
+global.packname = 'BHUSHITHA👨‍💻' //මෙතන නම.
+global.cap = '*By BHUSHITHA MD*' //මෙතන නම.
 global.img = 'https://i.ibb.co/BBB6Rxn/Vihanga-MD.png' //මෙතන බොට්ගෙ photo එකට ඕන derect link එකක්.
 global.ytchannel = 'https://youtu.be/Z9rIR0Vopb8' //මෙතන කැමති ලින්ක් එකක්.
 global.monayawal = '100000' //මෙතන මාරු කරන්න එපා.
